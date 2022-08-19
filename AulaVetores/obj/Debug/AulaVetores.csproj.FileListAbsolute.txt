@@ -1,0 +1,8 @@
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\bin\Debug\AulaVetores.exe.config
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\bin\Debug\AulaVetores.exe
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\bin\Debug\AulaVetores.pdb
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\obj\Debug\AulaVetores.csproj.AssemblyReference.cache
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\obj\Debug\AulaVetores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\obj\Debug\AulaVetores.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\obj\Debug\AulaVetores.exe
+C:\Users\Win10\Documents\Estudos\OOPC#completo\AulaVetores\AulaVetores\obj\Debug\AulaVetores.pdb
