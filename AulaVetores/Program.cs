@@ -87,6 +87,7 @@ namespace AulaVetores
             }
 
             Console.WriteLine(count);
+            Console.WriteLine(mat);
 
 
 
